@@ -1,0 +1,361 @@
+﻿pais,tipo,total
+Afghanistan,INDIVIDUO,220
+Afghanistan,ENTIDAD,43
+Albania,INDIVIDUO,9
+Albania,ENTIDAD,6
+Algeria,INDIVIDUO,37
+Algeria,ENTIDAD,12
+Angola,ENTIDAD,8
+Angola,INDIVIDUO,3
+Antigua and Barbuda,ENTIDAD,2
+Argentina,ENTIDAD,12
+Argentina,INDIVIDUO,7
+Armenia,ENTIDAD,5
+Armenia,INDIVIDUO,3
+Aruba,INDIVIDUO,1
+Australia,INDIVIDUO,5
+Australia,ENTIDAD,3
+Austria,INDIVIDUO,11
+Austria,ENTIDAD,8
+Azerbaijan,INDIVIDUO,7
+Azerbaijan,ENTIDAD,6
+"Bahamas, The",ENTIDAD,2
+Bahrain,INDIVIDUO,10
+Bahrain,ENTIDAD,4
+Bangladesh,ENTIDAD,10
+Bangladesh,INDIVIDUO,7
+Barbados,ENTIDAD,3
+Barbados,INDIVIDUO,1
+Belarus,INDIVIDUO,151
+Belarus,ENTIDAD,113
+Belgium,INDIVIDUO,34
+Belgium,ENTIDAD,22
+Belize,ENTIDAD,5
+Belize,INDIVIDUO,1
+Benin,ENTIDAD,8
+Benin,INDIVIDUO,3
+Bermuda,ENTIDAD,2
+Bolivia,ENTIDAD,3
+Bolivia,INDIVIDUO,2
+Bosnia and Herzegovina,INDIVIDUO,17
+Bosnia and Herzegovina,ENTIDAD,16
+Brazil,INDIVIDUO,19
+Brazil,ENTIDAD,11
+Bulgaria,ENTIDAD,80
+Bulgaria,INDIVIDUO,15
+Burkina Faso,ENTIDAD,3
+Burkina Faso,INDIVIDUO,1
+Burma,INDIVIDUO,127
+Burma,ENTIDAD,63
+Cabo Verde,INDIVIDUO,1
+Cambodia,ENTIDAD,129
+Cambodia,INDIVIDUO,31
+Cameroon,INDIVIDUO,1
+Canada,ENTIDAD,31
+Canada,INDIVIDUO,23
+Cayman Islands,ENTIDAD,13
+Central African Republic,INDIVIDUO,34
+Central African Republic,ENTIDAD,10
+Chad,INDIVIDUO,6
+Chile,INDIVIDUO,4
+Chile,ENTIDAD,4
+China,ENTIDAD,941
+China,INDIVIDUO,282
+Colombia,INDIVIDUO,187
+Colombia,ENTIDAD,158
+Commonwealth of Independent States,ENTIDAD,1
+Comoros,ENTIDAD,2
+Comoros,INDIVIDUO,1
+"Congo, Democratic Republic of the",INDIVIDUO,97
+"Congo, Democratic Republic of the",ENTIDAD,48
+"Congo, Republic of the",INDIVIDUO,3
+"Congo, Republic of the",ENTIDAD,1
+Costa Rica,INDIVIDUO,12
+Costa Rica,ENTIDAD,8
+Cote d Ivoire,ENTIDAD,4
+Cote d Ivoire,INDIVIDUO,3
+Crimea,ENTIDAD,1
+Croatia,ENTIDAD,4
+Croatia,INDIVIDUO,1
+Cuba,ENTIDAD,77
+Cuba,INDIVIDUO,48
+Curacao,ENTIDAD,1
+Cyprus,ENTIDAD,111
+Cyprus,INDIVIDUO,38
+Czech Republic,ENTIDAD,9
+Czech Republic,INDIVIDUO,3
+Denmark,ENTIDAD,3
+Denmark,INDIVIDUO,1
+Djibouti,INDIVIDUO,4
+Djibouti,ENTIDAD,3
+Dominica,INDIVIDUO,16
+Dominica,ENTIDAD,1
+Dominican Republic,INDIVIDUO,14
+Dominican Republic,ENTIDAD,13
+Ecuador,ENTIDAD,17
+Ecuador,INDIVIDUO,12
+Egypt,INDIVIDUO,55
+Egypt,ENTIDAD,14
+El Salvador,INDIVIDUO,18
+El Salvador,ENTIDAD,3
+Equatorial Guinea,INDIVIDUO,2
+Eritrea,INDIVIDUO,6
+Eritrea,ENTIDAD,2
+Estonia,ENTIDAD,13
+Estonia,INDIVIDUO,4
+Ethiopia,INDIVIDUO,7
+Ethiopia,ENTIDAD,3
+Fiji,INDIVIDUO,1
+Finland,ENTIDAD,11
+Finland,INDIVIDUO,10
+France,INDIVIDUO,47
+France,ENTIDAD,24
+Gaza,INDIVIDUO,26
+Gaza,ENTIDAD,21
+Georgia,INDIVIDUO,18
+Georgia,ENTIDAD,7
+Germany,ENTIDAD,91
+Germany,INDIVIDUO,64
+Ghana,INDIVIDUO,3
+Ghana,ENTIDAD,2
+Gibraltar,ENTIDAD,6
+Greece,ENTIDAD,16
+Greece,INDIVIDUO,12
+Guatemala,INDIVIDUO,37
+Guatemala,ENTIDAD,26
+Guernsey,ENTIDAD,1
+Guinea,INDIVIDUO,4
+Guinea,ENTIDAD,1
+Guinea-Bissau,INDIVIDUO,13
+Guyana,INDIVIDUO,8
+Guyana,ENTIDAD,4
+Haiti,INDIVIDUO,23
+Haiti,ENTIDAD,5
+Honduras,ENTIDAD,19
+Honduras,INDIVIDUO,13
+Hong Kong,ENTIDAD,48
+Hong Kong,INDIVIDUO,8
+Hungary,INDIVIDUO,5
+Hungary,ENTIDAD,5
+Iceland,ENTIDAD,1
+India,ENTIDAD,118
+India,INDIVIDUO,74
+Indonesia,INDIVIDUO,57
+Indonesia,ENTIDAD,16
+Iran,ENTIDAD,1010
+Iran,INDIVIDUO,846
+Iraq,INDIVIDUO,326
+Iraq,ENTIDAD,57
+Ireland,INDIVIDUO,12
+Ireland,ENTIDAD,7
+Israel,INDIVIDUO,16
+Israel,ENTIDAD,10
+Italy,INDIVIDUO,79
+Italy,ENTIDAD,21
+Jamaica,ENTIDAD,5
+Jamaica,INDIVIDUO,1
+Jammu and Kashmir,ENTIDAD,1
+Japan,ENTIDAD,14
+Japan,INDIVIDUO,9
+Jersey,ENTIDAD,8
+Jordan,INDIVIDUO,40
+Jordan,ENTIDAD,7
+Kafia Kingi,INDIVIDUO,5
+Kafia Kingi,ENTIDAD,1
+Kashmir,ENTIDAD,1
+Kazakhstan,ENTIDAD,13
+Kazakhstan,INDIVIDUO,1
+Kenya,INDIVIDUO,35
+Kenya,ENTIDAD,7
+"Korea, North",INDIVIDUO,253
+"Korea, North",ENTIDAD,231
+"Korea, South",ENTIDAD,3
+"Korea, South",INDIVIDUO,2
+Kosovo,INDIVIDUO,16
+Kosovo,ENTIDAD,14
+Kuwait,INDIVIDUO,21
+Kuwait,ENTIDAD,9
+Kyrgyzstan,ENTIDAD,24
+Kyrgyzstan,INDIVIDUO,4
+Laos,INDIVIDUO,5
+Laos,ENTIDAD,4
+Latvia,INDIVIDUO,9
+Latvia,ENTIDAD,9
+Lebanon,INDIVIDUO,235
+Lebanon,ENTIDAD,183
+Liberia,ENTIDAD,47
+Liberia,INDIVIDUO,5
+Libya,INDIVIDUO,53
+Libya,ENTIDAD,10
+Liechtenstein,ENTIDAD,16
+Liechtenstein,INDIVIDUO,8
+Lithuania,INDIVIDUO,5
+Lithuania,ENTIDAD,3
+Luxembourg,ENTIDAD,7
+Luxembourg,INDIVIDUO,1
+Macau,INDIVIDUO,1
+Macau,ENTIDAD,1
+Malaysia,ENTIDAD,38
+Malaysia,INDIVIDUO,16
+Maldives,ENTIDAD,30
+Maldives,INDIVIDUO,21
+Mali,INDIVIDUO,32
+Mali,ENTIDAD,10
+Malta,ENTIDAD,49
+Malta,INDIVIDUO,8
+"Man, Isle of",ENTIDAD,2
+Marshall Islands,ENTIDAD,164
+Mauritania,INDIVIDUO,9
+Mauritania,ENTIDAD,1
+Mauritius,ENTIDAD,1
+Mexico,INDIVIDUO,690
+Mexico,ENTIDAD,562
+Moldova,ENTIDAD,10
+Moldova,INDIVIDUO,8
+Monaco,INDIVIDUO,3
+Monaco,ENTIDAD,1
+Mongolia,INDIVIDUO,2
+Mongolia,ENTIDAD,2
+Montenegro,INDIVIDUO,5
+Montenegro,ENTIDAD,3
+Morocco,INDIVIDUO,24
+Morocco,ENTIDAD,2
+Mozambique,INDIVIDUO,4
+Mozambique,ENTIDAD,4
+Namibia,ENTIDAD,2
+Namibia,INDIVIDUO,1
+Netherlands,ENTIDAD,42
+Netherlands,INDIVIDUO,25
+New Zealand,ENTIDAD,4
+New Zealand,INDIVIDUO,2
+Nicaragua,INDIVIDUO,63
+Nicaragua,ENTIDAD,22
+Niger,ENTIDAD,3
+Niger,INDIVIDUO,2
+Nigeria,INDIVIDUO,23
+Nigeria,ENTIDAD,15
+North Gaza,INDIVIDUO,1
+"North Macedonia, The Republic of",INDIVIDUO,6
+"North Macedonia, The Republic of",ENTIDAD,6
+Northern Gaza,ENTIDAD,1
+Northern Mali,ENTIDAD,1
+Norway,INDIVIDUO,5
+Norway,ENTIDAD,3
+Oman,ENTIDAD,22
+Oman,INDIVIDUO,13
+Pakistan,INDIVIDUO,165
+Pakistan,ENTIDAD,70
+Palau,INDIVIDUO,5
+Palau,ENTIDAD,4
+Palestinian,INDIVIDUO,62
+Palestinian,ENTIDAD,8
+Panama,ENTIDAD,141
+Panama,INDIVIDUO,18
+Paraguay,INDIVIDUO,12
+Paraguay,ENTIDAD,8
+Peru,ENTIDAD,28
+Peru,INDIVIDUO,11
+Philippines,INDIVIDUO,36
+Philippines,ENTIDAD,7
+Poland,ENTIDAD,9
+Poland,INDIVIDUO,5
+Portugal,ENTIDAD,2
+Portugal,INDIVIDUO,1
+Qatar,INDIVIDUO,23
+Qatar,ENTIDAD,5
+Romania,ENTIDAD,7
+Romania,INDIVIDUO,3
+Russia,ENTIDAD,3478
+Russia,INDIVIDUO,1870
+Rwanda,INDIVIDUO,42
+Rwanda,ENTIDAD,11
+SIN PAIS,BARCO,1568
+SIN PAIS,INDIVIDUO,750
+SIN PAIS,AERONAVE,341
+SIN PAIS,ENTIDAD,177
+Saint Kitts and Nevis,INDIVIDUO,21
+Saint Kitts and Nevis,ENTIDAD,6
+Saint Vincent and the Grenadines,ENTIDAD,3
+Samoa,ENTIDAD,1
+San Marino,ENTIDAD,1
+Saudi Arabia,INDIVIDUO,77
+Saudi Arabia,ENTIDAD,10
+Senegal,INDIVIDUO,4
+Serbia,ENTIDAD,30
+Serbia,INDIVIDUO,27
+Seychelles,ENTIDAD,43
+Sierra Leone,INDIVIDUO,7
+Sierra Leone,ENTIDAD,6
+Singapore,ENTIDAD,99
+Singapore,INDIVIDUO,26
+Slovakia,ENTIDAD,11
+Slovakia,INDIVIDUO,5
+Slovenia,ENTIDAD,6
+Slovenia,INDIVIDUO,5
+Somalia,INDIVIDUO,87
+Somalia,ENTIDAD,9
+South Africa,ENTIDAD,27
+South Africa,INDIVIDUO,25
+South Sudan,INDIVIDUO,30
+South Sudan,ENTIDAD,14
+Spain,INDIVIDUO,31
+Spain,ENTIDAD,31
+Sri Lanka,INDIVIDUO,2
+Sri Lanka,ENTIDAD,2
+Sudan,INDIVIDUO,52
+Sudan,ENTIDAD,25
+Suriname,ENTIDAD,6
+Sweden,INDIVIDUO,16
+Sweden,ENTIDAD,4
+Switzerland,INDIVIDUO,46
+Switzerland,ENTIDAD,42
+Syria,INDIVIDUO,281
+Syria,ENTIDAD,118
+Taiwan,ENTIDAD,24
+Taiwan,INDIVIDUO,13
+Tajikistan,ENTIDAD,5
+Tajikistan,INDIVIDUO,3
+Tanzania,INDIVIDUO,7
+Tanzania,ENTIDAD,4
+Thailand,ENTIDAD,46
+Thailand,INDIVIDUO,28
+The Gambia,ENTIDAD,17
+The Gambia,INDIVIDUO,4
+Togo,INDIVIDUO,1
+Trinidad and Tobago,INDIVIDUO,5
+Tunisia,INDIVIDUO,61
+Tunisia,ENTIDAD,6
+Turkey,ENTIDAD,244
+Turkey,INDIVIDUO,181
+Turkmenistan,ENTIDAD,4
+Turkmenistan,INDIVIDUO,2
+Uganda,INDIVIDUO,38
+Uganda,ENTIDAD,8
+Ukraine,INDIVIDUO,157
+Ukraine,ENTIDAD,98
+United Arab Emirates,ENTIDAD,580
+United Arab Emirates,INDIVIDUO,193
+United Kingdom,ENTIDAD,120
+United Kingdom,INDIVIDUO,110
+United States,ENTIDAD,64
+United States,INDIVIDUO,28
+United States,AERONAVE,1
+Uruguay,ENTIDAD,3
+Uzbekistan,INDIVIDUO,20
+Uzbekistan,ENTIDAD,11
+Vanuatu,INDIVIDUO,4
+Venezuela,INDIVIDUO,218
+Venezuela,ENTIDAD,53
+Vietnam,INDIVIDUO,12
+Vietnam,ENTIDAD,12
+"Virgin Islands, British",ENTIDAD,54
+"Virgin Islands, British",INDIVIDUO,1
+West Bank,ENTIDAD,6
+West Bank,INDIVIDUO,4
+Yemen,INDIVIDUO,127
+Yemen,ENTIDAD,57
+Zambia,INDIVIDUO,3
+Zambia,ENTIDAD,2
+Zimbabwe,INDIVIDUO,15
+Zimbabwe,ENTIDAD,6
+former Soviet Union,INDIVIDUO,1

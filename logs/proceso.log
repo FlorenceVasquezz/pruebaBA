@@ -1,0 +1,17 @@
+2026-10-31 19:59:09,756 | INFO | === Inicio ejecución 1 ===
+2026-10-31 19:59:09,756 | INFO | Leyendo XML de la ONU: data/onu.xml
+2026-10-31 19:59:10,048 | INFO | ONU: 1007 registros leídos
+2026-10-31 19:59:10,048 | INFO | Leyendo XML de OFAC: data/ofac.xml
+2026-10-31 19:59:15,551 | INFO | OFAC: 19484 registros leídos
+2026-10-31 19:59:16,662 | INFO | Limpieza terminada: 881 filas rechazadas en total
+2026-10-31 19:59:17,050 | INFO | Cargada tabla alias               27368 filas
+2026-10-31 19:59:17,178 | INFO | Cargada tabla direccion           22692 filas
+2026-10-31 19:59:17,224 | INFO | Cargada tabla nacionalidad         7712 filas
+2026-10-31 19:59:17,300 | INFO | Cargada tabla fecha_nacimiento     9103 filas
+2026-10-31 19:59:17,318 | INFO | Conciliación OK registro          entrada=20491 salida=20491 rechazos=0
+2026-10-31 19:59:17,319 | INFO | Conciliación OK alias             entrada=27672 salida=27368 rechazos=304
+2026-10-31 19:59:17,320 | INFO | Conciliación OK direccion         entrada=23212 salida=22692 rechazos=520
+2026-10-31 19:59:17,320 | INFO | Conciliación OK nacionalidad      entrada=7714 salida=7712 rechazos=2
+2026-10-31 19:59:17,321 | INFO | Conciliación OK fecha_nacimiento  entrada=9158 salida=9103 rechazos=55
+2026-10-31 19:59:17,332 | INFO | Integridad referencial OK (0 filas huérfanas)
+2026-10-31 19:59:17,337 | INFO | === Fin ejecución 1: OK ===
